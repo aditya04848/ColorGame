@@ -1,0 +1,113 @@
+body{
+	text-align: center;
+	margin:0;
+	background-color: #212121;
+	font-family: sans-serif;
+}
+h1{
+	margin: 0 auto;
+	line-height: 3rem;
+}
+nav{
+	background-color: white;
+}
+header{
+	background-color: #3399ff;	
+}
+.hoverOn{
+	border-width: 0;
+	background-color: white;
+	padding: 6px 1px;
+	color: #3399ff;
+}
+.hoverOn:hover{
+	background-color:#3399ff; 
+	border-width: 0;
+	color: white;
+}
+.new{
+	display: inline-block;
+	margin-top: 0; 
+}
+
+.medium{
+	display: inline-block;
+	margin-top: 0; 
+}
+
+.selected{
+	background-color:#3399ff; 
+	border-width: 0;
+	color: white;
+}
+
+.tryagain{
+	display: inline-block;
+	width:30%;
+	margin-top: 0; 
+}
+
+.first{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
+.second{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
+
+.third{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
+
+.fourth{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
+
+.fifth{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
+
+.sixth{
+	background-color: yellow;
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin: 0.4rem 0.4rem;
+	border-radius:20%;
+
+
+}
